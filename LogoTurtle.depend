@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1703652196 source:d:\dev\ws\c\logoturtle\main.c
+	<curses.h>
+
+1703657092 source:d:\dev\ws\c\logoturtle\figures.c
+
+1703856727 source:d:\dev\ws\c\logoturtle\logo_turtle.c
+	<curses.h>
+	<stdbool.h>
+	<string.h>
+
+1703656758 source:d:\dev\ws\c\logoturtle\movement.c
+
+1703656720 source:d:\dev\ws\c\logoturtle\turtle_input.c
+
+1703656835 source:d:\dev\ws\c\logoturtle\menu.c
+
